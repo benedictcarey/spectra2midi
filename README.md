@@ -1,0 +1,2 @@
+# spectra2midi
+a Max/MSP utility for sorting FFT derived pitch material information down to a more managable size, in real-time. Similar to HPCP, uses a histogram to track recurring spectra and ranks them according to both their frequency of occurrence and the amplitude of those occurrences. This data is expressed as microtonal midi information with an attached velocity. To install simply place the folder in your Packages folder and install MaxScore and Zsa.descriptors (links in helpfile)
